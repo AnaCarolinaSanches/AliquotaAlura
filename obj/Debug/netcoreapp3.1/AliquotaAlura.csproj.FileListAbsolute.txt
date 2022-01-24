@@ -1,0 +1,14 @@
+C:\Users\carol\OneDrive\Documentos\CSharp\AliquotaAlura\bin\Debug\netcoreapp3.1\AliquotaAlura.exe
+C:\Users\carol\OneDrive\Documentos\CSharp\AliquotaAlura\bin\Debug\netcoreapp3.1\AliquotaAlura.deps.json
+C:\Users\carol\OneDrive\Documentos\CSharp\AliquotaAlura\bin\Debug\netcoreapp3.1\AliquotaAlura.runtimeconfig.json
+C:\Users\carol\OneDrive\Documentos\CSharp\AliquotaAlura\bin\Debug\netcoreapp3.1\AliquotaAlura.runtimeconfig.dev.json
+C:\Users\carol\OneDrive\Documentos\CSharp\AliquotaAlura\bin\Debug\netcoreapp3.1\AliquotaAlura.dll
+C:\Users\carol\OneDrive\Documentos\CSharp\AliquotaAlura\bin\Debug\netcoreapp3.1\AliquotaAlura.pdb
+C:\Users\carol\OneDrive\Documentos\CSharp\AliquotaAlura\obj\Debug\netcoreapp3.1\AliquotaAlura.csproj.AssemblyReference.cache
+C:\Users\carol\OneDrive\Documentos\CSharp\AliquotaAlura\obj\Debug\netcoreapp3.1\AliquotaAlura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive\Documentos\CSharp\AliquotaAlura\obj\Debug\netcoreapp3.1\AliquotaAlura.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive\Documentos\CSharp\AliquotaAlura\obj\Debug\netcoreapp3.1\AliquotaAlura.AssemblyInfo.cs
+C:\Users\carol\OneDrive\Documentos\CSharp\AliquotaAlura\obj\Debug\netcoreapp3.1\AliquotaAlura.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Documentos\CSharp\AliquotaAlura\obj\Debug\netcoreapp3.1\AliquotaAlura.dll
+C:\Users\carol\OneDrive\Documentos\CSharp\AliquotaAlura\obj\Debug\netcoreapp3.1\AliquotaAlura.pdb
+C:\Users\carol\OneDrive\Documentos\CSharp\AliquotaAlura\obj\Debug\netcoreapp3.1\AliquotaAlura.genruntimeconfig.cache

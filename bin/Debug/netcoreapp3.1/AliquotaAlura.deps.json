@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AliquotaAlura/1.0.0": {
+        "runtime": {
+          "AliquotaAlura.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AliquotaAlura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
